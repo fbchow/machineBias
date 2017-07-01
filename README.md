@@ -1,5 +1,5 @@
 # Machine Bias
-
+I'm collating a public repository of resources to keep motivated on reasearching these topics. 
 
 ### AI & Race  
 [AI's White Guy Problem](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html)
