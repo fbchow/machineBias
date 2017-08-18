@@ -11,6 +11,8 @@ I'm collating a public repository of resources to keep motivated on reasearching
 ### Recidivism  
 [Risk Assessment in Criminal Sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
+[PSA (Public Safety Assessment Scores)](http://www.npr.org/2017/08/18/543976003/did-a-bail-reform-algorithm-contribute-to-this-san-francisco-man-s-murder)
+
 
 ### Redlining
 [America's History of Discrimination](http://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination)
